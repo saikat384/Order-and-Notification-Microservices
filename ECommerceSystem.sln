@@ -5,8 +5,6 @@ VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService.Api", "OrderService.Api\OrderService.Api.csproj", "{1515299C-39AE-441D-B383-253145357D12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalServices", "ExternalServices\ExternalServices.csproj", "{7F366474-F1C2-4950-B224-BC896EB62E01}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceSystem.Base", "ECommerceSystem.Base\ECommerceSystem.Base.csproj", "{A2E35790-EC37-4ADA-A3A4-ABCEE75EE8A6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationService.Api", "NotificationService.Api\NotificationService.Api.csproj", "{8F06838E-95F6-4ED3-8A24-EA0FEB5E50B6}"
@@ -25,10 +23,6 @@ Global
 		{1515299C-39AE-441D-B383-253145357D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1515299C-39AE-441D-B383-253145357D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1515299C-39AE-441D-B383-253145357D12}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7F366474-F1C2-4950-B224-BC896EB62E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7F366474-F1C2-4950-B224-BC896EB62E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7F366474-F1C2-4950-B224-BC896EB62E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7F366474-F1C2-4950-B224-BC896EB62E01}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A2E35790-EC37-4ADA-A3A4-ABCEE75EE8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A2E35790-EC37-4ADA-A3A4-ABCEE75EE8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2E35790-EC37-4ADA-A3A4-ABCEE75EE8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
